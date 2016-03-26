@@ -1,0 +1,27 @@
+html{
+    width:100%;
+    background:#40403e;
+}
+
+body{
+    width:80%;
+    background:white;
+    margin:0 auto;
+    border:1px solid white;
+    padding:50px;
+    font-family: calibri,candara,ubuntu;
+}
+
+form{
+    border:2px solid #fff;
+    padding:40px;
+    margin:0 auto;
+}
+input[type="submit"]{
+    background-color:#40403e;
+    color:white;
+    border:none;
+    padding:5px 15px;
+    margin-top:20px;
+    margin-left:200px;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "first" :   "Ehsan",
+        "last"  :   "Rafeeque",
+        "sid"   :   5505,
+        "cgpa"  :   2.4,
+        "batch" :   "sp11"
+    },
+    {
+        "first" :   "Waleed",
+        "last"  :   "Ahmed",
+        "sid"   :   5552,
+        "cgpa"  :   3.4,
+        "batch" :   "sp11"
+    },
+    {
+        "first" :   "Ahsan",
+        "last"  :   "Iqbal",
+        "sid"   :   5125,
+        "cgpa"  :   3.07,
+        "batch" :   "fa10"
+    },
+    {
+        "first" :   "Abdul Qadir",
+        "last"  :   "Memon",
+        "sid"   :   5514,
+        "cgpa"  :   2.8,
+        "batch" :   "sp11"
+    },
+    {
+        "first" :   "Mossidique",
+        "last"  :   "Iqbal",
+        "sid"   :   5141,
+        "cgpa"  :   3.45,
+        "batch" :   "sp11"
+    }
+
+]
